@@ -5,3 +5,4 @@
 # Use RecyclerView, EditText, ArrayList, Adapter and few dependencies ...
 # Use three activities.xml
 # With the screenshot portrait and landscape show a demonstration of my Flicks app
+Flicks_SINAT_Technologie_Repository----CodePath/ScreenShot_Flicks_SINAT_Technologie_Landscape.gif
